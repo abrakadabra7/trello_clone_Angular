@@ -1,4 +1,25 @@
-# Trello
+# Trello Clone
+
+## Yapılanlar
+### 05/02/2025
+- Proje oluşturuldu
+- Navbar yapıldı
+- Dashboard yapıldı
+- Liste ekleme eklendi
+  
+### 06/02/2025
+- Kart ekleme eklendi
+- Proje oluşturma eklendi
+- Suruklemeler guncellendi
+
+### 07/02/2025
+- Son olarak hatalar giderildi 
+- Mobil tasarımı yapıldı
+<br>
+
+## Youtube Videosu İçin Görsele Tıklayabilirsiniz 
+[<img src="https://github.com/abrakadabra7/trello_clone_Angular/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-02-07%20140238.png" width="50%">](https://youtu.be/8s1bFiiXqPc "Trello Clone With Angular")
+<br><br>
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.5.
 
